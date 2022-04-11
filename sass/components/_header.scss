@@ -83,7 +83,7 @@
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: $primary-text-color;
+  color: $secondary-text-color;
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -97,7 +97,7 @@
 // Элемент
 .header-contacts__icon {
   margin-right: 10px;
-  fill: $primary-text-color;
+  fill: $secondary-text-color;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   .header-contacts__link:hover &,

@@ -23,7 +23,7 @@
 // Элемент
 .portfolio__button {
   background-color: $team-background-color;
-  color: var(--primary-text-color);
+  color: $primary-text-color;
   box-shadow: none;
 
   cursor: pointer;
@@ -159,5 +159,5 @@
   line-height: 1.88;
   margin-top: 0px;
   margin-bottom: 0px;
-  color: $primary-text-color;
+  color: $secondary-text-color;
 }
